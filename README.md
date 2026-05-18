@@ -4,10 +4,6 @@
 
 # This project has been reopened to bring this to Xbox Series X/S.
 
-If you want a truly polished version of this game, I would recommend the SMW Widescreen Patch https://github.com/VitorVilela7/wide-snes
-
-You can also find some extra patches at https://www.smwcentral.net
-
 You are more than welcome to fork the repository and edit it as you wish.
 
 Thank you for supporting this project. It truly means a lot to me.
