@@ -2,7 +2,7 @@
 
 
 
-# This project has been closed, mainly as a result of my poor coding skills, and a lack of interest 
+# This project has been reopened to bring this to Xbox Series X/S.
 
 If you want a truly polished version of this game, I would recommend the SMW Widescreen Patch https://github.com/VitorVilela7/wide-snes
 
@@ -15,8 +15,8 @@ Thank you for supporting this project. It truly means a lot to me.
 
 
 # Requires an original SMW SNES ROM to play! (Not All-Stars +SMW or SMA2)
-### Download: https://github.com/Boswer811/Super-Mario-World-Remastered-Plus/releases
 
+### WON'T BRING A ROM USE YOUR ORIGINAL BACKUP
 
 
 # This does NOT act as a replacement for the original Super Mario World. Super Mario World can be played on Nintendo Switch, through Nintendo Switch Online
