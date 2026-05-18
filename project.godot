@@ -21,17 +21,20 @@ warnings/check_angle_interpolation_type_conflicting=false
 [application]
 
 config/name="SuperMarioWorldRemasteredPlus"
-config/tags=PackedStringArray("die")
 run/main_scene="uid://dvbp0nouhoin8"
 config/use_custom_user_dir=true
 config/custom_user_dir_name="SuperMarioWorldRemastered"
-config/features=PackedStringArray("4.4")
+config/features=PackedStringArray("4.7")
 boot_splash/show_image=false
-boot_splash/fullsize=false
+boot_splash/stretch_mode=0
 boot_splash/use_filter=false
 boot_splash/image="res://Assets/Sprites/UI/Splash.png"
 config/icon="uid://3pgeyxvjbjjm"
 config/macos_native_icon="uid://3pgeyxvjbjjm"
+
+[audio]
+
+buses/default_bus_layout="uid://baj1pgcqs026n"
 
 [autoload]
 
